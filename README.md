@@ -31,7 +31,7 @@ This lab focuses on:
 📥 **Download the full dataset:**  
 [🔗 Google Drive – Event Camera Lab Files](https://drive.google.com/drive/folders/1tCNAaVO-GMZh2o2z6vUaNSqhjgWZGaWt?usp=sharing)
 
-> After downloading, unzip `Event_camera_part2.zip` and place it in the project root directory.
+
 
 ---
 
